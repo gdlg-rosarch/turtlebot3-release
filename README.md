@@ -1,3 +1,33 @@
+## turtlebot3 (kinetic) - 0.2.1-0
+
+The packages in the `turtlebot3` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release turtlebot3 --track kinetic --rosdistro kinetic --edit` on `Wed, 14 Mar 2018 06:06:05 -0000`
+
+These packages were released:
+- `turtlebot3`
+- `turtlebot3_bringup`
+- `turtlebot3_description`
+- `turtlebot3_example`
+- `turtlebot3_navigation`
+- `turtlebot3_slam`
+- `turtlebot3_teleop`
+
+Version of package(s) in repository `turtlebot3`:
+
+- upstream repository: https://github.com/ROBOTIS-GIT/turtlebot3.git
+- release repository: https://github.com/ROBOTIS-GIT-release/turtlebot3-release.git
+- rosdistro version: `0.2.0-0`
+- old version: `0.2.0-0`
+- new version: `0.2.1-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.12.1`
+- rosdistro version: `0.4.4`
+- vcstools version: `0.1.40`
+
+
 ## turtlebot3 (kinetic) - 0.2.0-0
 
 The packages in the `turtlebot3` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release turtlebot3 --track kinetic --rosdistro kinetic --edit` on `Mon, 12 Mar 2018 14:13:12 -0000`
